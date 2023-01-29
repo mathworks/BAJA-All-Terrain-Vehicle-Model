@@ -16,6 +16,9 @@ The model is similar to, "cvtModel" with addition of dashboards.
 
 ## 2_Models_LookupTable
 
+### cvtModel_cvtratio_rpm
+Contains model based on cvt ratio and engine rpm lookup table.
+
 ### cvtModel_mapped
 Contains Simscape model of BAJA ATV with Continous Variable Transmission where the CVT ratio varies based on 1D lookup table.
 
